@@ -101,7 +101,7 @@ The analysis shows that employee productivity is influenced by multiple factors,
 
 ---
 
-## 🙌 Acknowledgment
+## 🙌 Acknowledgment ------
 This project was completed as part of an internship to apply data analysis skills in a real-world business problem.
 
 ---
